@@ -1,0 +1,5 @@
+src/vendor
+src/video
+*.log
+md5.js
+.idea
